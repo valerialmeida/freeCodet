@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>.:Valéria Filha:.</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src="https://kit.fontawesome.com/31813d09fd.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Koulen&family=Poppins:wght@100&family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+
+</head>
+
+    <style>
+         *{
+       
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: black;
+    font-weight: 700;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+.container{
+    text-align: center;
+font-family: 'Poppins', sans-serif;
+font-weight: bold;
+}
+
+
+
+body{
+
+        background-image: url(backnovo.jpg);
+
+        
+}
+
+h1{
+    font-size: 60px;
+
+}
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+
+
+header ul{
+    display: flex;
+    font-size: 40px;
+
+}
+ 
+ header li{
+    padding:50px;
+
+}
+
+    </style>
+
+
+<hr/>
+
+ <header>
+        
+<ul>
+  <li><a target = "_blank" href="https://wa.me/<(19)9 99220505>">WhatsApp</a></li>
+  <li><a target = "_blank" href = "mailto: valeriafilha75@gmail.com">E-mail</a></li>
+  <li><a target = "_blank" href="https://github.com/valerialmeida">GitHub</a></li>
+</ul>
+    </header>
+
+
+<body>
+<main>
+
+
+<section class="container">
+    
+
+
+    <div class="main">
+       
+
+
+        <h1>valéria filha</h1>
+        <h5>Full Stack Student</h5>
+    </div>
+
+
+<section>
+    <div id="arrow">
+        <i class="fa-solid fa-chevron-down"></i>
+    </div>
+
+    <div>
+        <p>
+            Olá, me chamo Valéria e sou estudante de Programação.
+            <br/>
+Atualmente possuo conhecimento em: 
+
+<br/>
+
+HTML5, CSS, JavaScript, ES6, Bootstrap, jQuery e React. </p>
+
+</section>
+<p>
+ Informe seu contato ou me encontre através dos links acima!
+        </p>
+    </div>
+    
+<section>
+
+<br/>
+
+    <div class="form">
+        <form action ="">
+            <input type="text" placeholder="E-mail :)"> <button>Enviar</button>
+        </form>
+
+    </div>
+</section>
+
+
+
+</main>
+    
+</body>
+</html>
